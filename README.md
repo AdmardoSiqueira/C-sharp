@@ -4,7 +4,7 @@ O compilador csc.exe localiza-se em C:\Windows\Microsoft.NET\Framework\v4.0.3031
 
 O código-fonte de uma aplicação em C Sharp é .cs
 
->>> Compilando e Executando a Aplicação via CMD
+Compilando e Executando a Aplicação via CMD
 
 Compilando
 
